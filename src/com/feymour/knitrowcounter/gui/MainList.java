@@ -1,6 +1,6 @@
 package com.feymour.knitrowcounter.gui;
 
-import com.feymour.knitcounter.R;
+import com.feymour.knitrowcounter.R;
 
 import android.os.Bundle;
 import android.app.Activity;
