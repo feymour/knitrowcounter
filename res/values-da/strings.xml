@@ -1,4 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="action_settings">Indstillinger</string>
     <string name="app_name">Rækketæller</string>
-    <string name="title_item_detail">projektbeskrivelse</string>
+    <string name="main_list_image_description">billede</string>
 </resources>
